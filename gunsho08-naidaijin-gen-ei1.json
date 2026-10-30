@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/naidaijin-gen-ei1-utaawase",
  "yomi": "ないだいじんけうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（三題）",
+  "era": "元永元年（1118）10月",
+  "author": "主催 藤原忠通／判者 源俊頼・藤原基俊",
+  "desc": "内大臣藤原忠通の家で催された歌合。時雨・残菊・恋の三題で、俊頼と基俊がそれぞれ判を付けた二人判の歌合として知られる。"
+ },
  "editions": [
   {
    "pid": "1879502",
